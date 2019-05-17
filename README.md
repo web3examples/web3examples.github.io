@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
-
+## Web3 Examples
 ![Logo](https://web3examples.github.io/logo.png)
 
-See examples here:
--[ipfs examples](https://github.com/web3examples/ipfs)
+This github contains several web3 related examples. These can be used to learn to programm web3.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See examples here:\
+-[ipfs examples](https://github.com/web3examples/ipfs)\
 
- [documentation](https://help.github.com/categories/github-pages-basics/)
+For more details see:\
+-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).\
+-[documentation](https://help.github.com/categories/github-pages-basics/).\
+
