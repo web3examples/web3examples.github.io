@@ -3,10 +3,9 @@
 
 This github contains several web3 related examples. These can be used to learn to programm web3.
 
-See examples here:\
--[ipfs examples](https://github.com/web3examples/ipfs)\
+See examples here:<br/>
+-[ipfs examples](https://github.com/web3examples/ipfs)<br/>
 
-For more details see:\
--[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).\
--[documentation](https://help.github.com/categories/github-pages-basics/).\
-
+For more details see:<br/>
+-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
+-[documentation](https://help.github.com/categories/github-pages-basics/).<br/>
