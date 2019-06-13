@@ -4,9 +4,9 @@
 This github contains several web3 related examples. These can be used to learn to programm web3.
 
 See examples here:<br/>
--[bitcoin examples](../../../bitcoin)<br/>
--[ethereum examples](../../../ethereum)<br/>
--[ipfs examples](../../../ipfs)<br/>
+-[bitcoin examples](../../../bitcoin/)<br/>
+-[ethereum examples](../../../ethereum/)<br/>
+-[ipfs examples](../../../ipfs/)<br/>
 
 For more details see:<br/>
 -[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
