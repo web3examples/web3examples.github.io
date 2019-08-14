@@ -3,11 +3,12 @@
 
 This github contains several web3 related examples. These can be used to learn to programm web3.
 
-See examples here:<br/>
--[bitcoin examples](../../../bitcoin/)<br/>
--[ethereum examples](../../../ethereum/)<br/>
--[ipfs examples](../../../ipfs/)<br/>
+See examples here:
+- [ecosystem](../../../ecosystem/)
+- [bitcoin examples](../../../bitcoin/)
+- [ethereum examples](../../../ethereum/)
+- [ipfs examples](../../../ipfs/)
 
-For more details see:<br/>
--[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
--[documentation](https://help.github.com/categories/github-pages-basics/).<br/>
+For more details see:
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
+- [documentation](https://help.github.com/categories/github-pages-basics/).<br/>
