@@ -4,10 +4,12 @@
 This site (github) contains several web3 related examples. These can be used to learn to programm web3.
 
 See examples here:
-- [ecosystem](../../../ecosystem/)
-- [bitcoin examples](../../../bitcoin/)
 - [ethereum examples](../../../ethereum/)
 - [ipfs examples](../../../ipfs/)
+- [ecosystem](../../../ecosystem/)
+- [programming environment](../../../programmingenvironment/)
+- [bitcoin examples](../../../bitcoin/)
+
 
 For more details see:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
