@@ -14,3 +14,9 @@ See examples here:
 For more details see:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
 - [documentation](https://help.github.com/categories/github-pages-basics/).<br/>
+
+
+For more information:
+- Chat: [Gitter](https://gitter.im/web3examples/community)
+- Twitter: [gpersoon](https://twitter.com/gpersoon)
+
