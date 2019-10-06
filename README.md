@@ -1,7 +1,7 @@
 ## Web3 Examples
 ![Logo](https://web3examples.github.io/logo.png)
 
-This site (github) contains several web3 related examples. These can be used to learn to programm web3.
+This site (github) contains several web3 related examples. These can be used to learn to program web3.
 
 See examples here:
 - [ethereum examples](../../../ethereum/)
