@@ -8,6 +8,7 @@ See examples here:
 - [ipfs examples](../../../ipfs/)
 - [ecosystem](../../../ecosystem/)
 - [programming environment](../../../programmingenvironment/)
+- [javascript](../../../javascript/)
 - [bitcoin examples](../../../bitcoin/)
 
 
