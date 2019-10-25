@@ -21,4 +21,3 @@ For more information:
 - Chat: [Gitter](https://gitter.im/web3examples/community)
 - Twitter: [gpersoon](https://twitter.com/gpersoon)
 
-<script src="https://code.responsivevoice.org/responsivevoice.js?key=wwYbW8EZ"></script>
