@@ -7,6 +7,7 @@ See examples here:
 - [ethereum examples](../../../ethereum/)
 - [ipfs examples](../../../ipfs/)
 - [ecosystem](../../../ecosystem/)
+- [cryptoeconomics](../../../cryptoeconomics/)
 - [programming environment](../../../programmingenvironment/)
 - [javascript](../../../javascript/)
 - [bitcoin examples](../../../bitcoin/)
