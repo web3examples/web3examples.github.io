@@ -11,6 +11,9 @@ See examples here:
 - [javascript](../../../javascript/)
 - [bitcoin examples](../../../bitcoin/)
 
+Courses:
+- [Programming Dapps THUAS 2019-2020](../../../THUASMinorBlockchain_20192020B_IT/)
+
 
 For more details see:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
