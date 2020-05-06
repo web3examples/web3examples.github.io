@@ -13,7 +13,7 @@ See examples here:
 
 Courses:
 - [Programming Dapps THUAS 2019-2020 B](../../../THUASMinorBlockchain/20192020B_IT.md)
-- [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain/20192020D_IT.md/)
+- [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain/20192020D_IT.md)
 
 
 For more details see:
