@@ -12,7 +12,8 @@ See examples here:
 - [bitcoin examples](../../../bitcoin/)
 
 Courses:
-- [Programming Dapps THUAS 2019-2020](../../../THUASMinorBlockchain_20192020B_IT/)
+- [Programming Dapps THUAS 2019-2020 B](../../../THUASMinorBlockchain_20192020B_IT/)
+- [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain_20192020D_IT/)
 
 
 For more details see:
