@@ -16,7 +16,7 @@ Courses:
 - [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain/20192020D_IT.md)
 
 - [Programming Dapps THUAS 2019-2020 B github](https://github.com/web3examples/THUASMinorBlockchain/blob/master/20192020B_IT.md)
-- [Programming Dapps THUAS 2019-2020 D github](https://github.com/web3examples/THUASMinorBlockchain/blob/master/20192020B_IT.md)
+- [Programming Dapps THUAS 2019-2020 D github](https://github.com/web3examples/THUASMinorBlockchain/blob/master/20192020D_IT.md)
 
 
 
