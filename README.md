@@ -15,15 +15,14 @@ Courses:
 - [Programming Dapps THUAS 2019-2020 B](../../../THUASMinorBlockchain/20192020B_IT)
 - [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain/20192020D_IT)
 
-
-
+Background information:
+- [Library](../../../library)
 
 For more details see:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
 - [documentation](https://help.github.com/categories/github-pages-basics/).<br/>
 
 
-For more information:
-- Chat: [Gitter](https://gitter.im/web3examples/community)
+Contract details:
 - Twitter: [gpersoon](https://twitter.com/gpersoon)
 
