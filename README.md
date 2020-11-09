@@ -11,9 +11,8 @@ See examples here:
 - [javascript](../../../javascript/)
 - [bitcoin examples](../../../bitcoin/)
 
-Courses:
-- [Programming Dapps THUAS 2019-2020 B](../../../THUASMinorBlockchain/20192020B_IT)
-- [Programming Dapps THUAS 2019-2020 D](../../../THUASMinorBlockchain/20192020D_IT)
+See course here:
+- [THUAS Courses](../../../THUASMinorBlockchain)
 
 Background information:
 - [Library](../../../library)
