@@ -1,7 +1,11 @@
 ## Web3 Examples
 ![Logo](https://web3examples.github.io/logo.png)
 
-This site (github) contains several web3 related examples. These can be used to learn to program web3.
+This site and github contains several web3 related examples. These can be used to learn to program web3.
+
+See video's here:
+- [KOIOS Online](https://www.koios.online)
+- [Youtube playlist Programming Dapps](https://www.youtube.com/playlist?list=PL89JtHJSeieVbSuXmZ7WYquDnkjJ-Ythi)
 
 See examples here:
 - [ethereum examples](../../../ethereum/)
@@ -11,7 +15,7 @@ See examples here:
 - [javascript](../../../javascript/)
 - [bitcoin examples](../../../bitcoin/)
 
-See course here:
+See courses here:
 - [THUAS Courses](../../../THUASMinorBlockchain)
 
 Background information:
