@@ -25,7 +25,6 @@ For more details see:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).<br/>
 - [documentation](https://help.github.com/categories/github-pages-basics/).<br/>
 
-
 Contract details:
 - Twitter: [gpersoon](https://twitter.com/gpersoon)
 
