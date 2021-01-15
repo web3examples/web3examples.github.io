@@ -17,6 +17,7 @@ See examples here:
 
 See courses here:
 - [THUAS Courses](../../../THUASMinorBlockchain)
+- [Saxion Courses](../../../Saxion)
 
 Background information:
 - [Library](../../../library)
