@@ -8,7 +8,7 @@ See video's here:
 - [Youtube playlist Programming Dapps](https://www.youtube.com/playlist?list=PL89JtHJSeieVbSuXmZ7WYquDnkjJ-Ythi)
 
 See sheets here:
-- - [Programming dapps sheets](../../../dapps_sheets/)
+- [Programming dapps sheets](../../../dapps_sheets/)
 
 See examples here:
 - [ethereum examples](../../../ethereum/)
